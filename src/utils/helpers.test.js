@@ -1,4 +1,4 @@
-import { summaryDonations } from '../../utils/helpers';
+import { summaryDonations } from './helpers';
 
 describe('helpers', function() {
   test('`summaryDonations` should calculate donations correctly', function() {
